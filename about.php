@@ -1,5 +1,5 @@
 <?php include "includes/header.php"; ?>
 
-<p>Welcome to Home Page</p>
+<p>This is About Page</p>
 
 <?php include "includes/footer.php"; ?>
