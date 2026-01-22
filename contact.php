@@ -1,5 +1,6 @@
 <?php include "includes/header.php"; ?>
 
-<p>Welcome to Home Page</p>
+<h2>Contact Page</h2>
+<p>Email: test@example.com</p>
 
 <?php include "includes/footer.php"; ?>
