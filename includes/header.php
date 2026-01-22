@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 <?php include_once __DIR__ . "/config.php"; ?>
+=======
+<<<<<<< HEAD
+<?php include_once __DIR__ . "/config.php"; ?>
+=======
+<?php include_once __DIR__ . "config/config.php"; ?>
+>>>>>>> 143298da72ec74c5621b2537838bffea05a743db
+>>>>>>> 99ebe5d7f8533ee35ebaaf870659356c2f3efb13
 <?php include_once __DIR__ . "/nav.php"; ?>
 
 <!DOCTYPE html>
